@@ -1,5 +1,7 @@
 # 📚 Biblioteca-Springboot
 
+Colaboracion de Alcindo hacia Onega
+
 ## 📌 Descripción del proyecto
 
 **Biblioteca-Springboot** es un proyecto académico desarrollado para la
